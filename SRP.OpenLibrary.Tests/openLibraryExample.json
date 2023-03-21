@@ -1,0 +1,3344 @@
+{
+    "numFound": 42,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL28989508W",
+            "type": "work",
+            "seed": [
+                "/books/OL39855430M",
+                "/books/OL39859241M",
+                "/books/OL39850991M",
+                "/books/OL39874637M",
+                "/books/OL46835778M",
+                "/works/OL28989508W",
+                "/subjects/hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)_fiction",
+                "/subjects/magic_fiction",
+                "/subjects/children's_fiction",
+                "/subjects/fantasy_fiction",
+                "/subjects/schools_fiction",
+                "/subjects/england_fiction",
+                "/subjects/potter_harry_(fictitious_character)_fiction",
+                "/subjects/wizards_fiction",
+                "/authors/OL23919A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Harry Potter and the Sorcerer's Stone",
+            "edition_count": 5,
+            "edition_key": [
+                "OL39855430M",
+                "OL39859241M",
+                "OL39850991M",
+                "OL39874637M",
+                "OL46835778M"
+            ],
+            "publish_date": [
+                "2010",
+                "2011",
+                "2022"
+            ],
+            "publish_year": [
+                2010,
+                2011,
+                2022
+            ],
+            "first_publish_year": 2010,
+            "number_of_pages_median": 309,
+            "publish_place": [
+                "United Kindom"
+            ],
+            "isbn": [
+                "9783161484100",
+                "0557911761",
+                "0557944880",
+                "9780557741250",
+                "316148410X",
+                "0557741254",
+                "0557986877",
+                "9780557911769",
+                "9780557986873",
+                "9780557944880"
+            ],
+            "last_modified_i": 1677011784,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 1,
+            "ratings_count_4": 0,
+            "ratings_count_5": 1,
+            "ratings_average": 4.0,
+            "ratings_sortable": 2.4777265,
+            "ratings_count": 2,
+            "readinglog_count": 7,
+            "want_to_read_count": 6,
+            "currently_reading_count": 0,
+            "already_read_count": 1,
+            "first_sentence": [
+                "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say they were perfectly normal, thank you very much."
+            ],
+            "publisher": [
+                "J.K. Rowling",
+                "Lulu Press, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "author_alternative_name": [
+                "Newt Scamander",
+                "Kennilworthy Whisp",
+                "ROWLING",
+                "Joanne K. Rowling",
+                "JK Rowling",
+                "Newton Scamander",
+                "Dzhoan Rouling",
+                "Rouling Dzh.K.",
+                "\u0414\u0436\u043e\u0430\u043d \u0420\u043e\u0443\u043b\u0456\u043d\u0433",
+                "J.K. Rowling",
+                "Jo Murray",
+                "\u0631\u0648\u0628\u0631\u062a \u063a\u0627\u0644\u0628\u0631\u064a\u062b - Robert Galbraith",
+                "Robert Galbraith",
+                "Joanne Rowling"
+            ],
+            "subject": [
+                "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+                "Magic, fiction",
+                "Children's fiction",
+                "Fantasy fiction",
+                "Schools, fiction",
+                "England, fiction",
+                "Potter, harry (fictitious character), fiction",
+                "Wizards, fiction"
+            ],
+            "publisher_facet": [
+                "J.K. Rowling",
+                "Lulu Press, Inc."
+            ],
+            "subject_facet": [
+                "Children's fiction",
+                "England, fiction",
+                "Fantasy fiction",
+                "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+                "Magic, fiction",
+                "Potter, harry (fictitious character), fiction",
+                "Schools, fiction",
+                "Wizards, fiction"
+            ],
+            "_version_": 1759778973101850624,
+            "author_facet": [
+                "OL23919A J. K. Rowling"
+            ],
+            "subject_key": [
+                "children's_fiction",
+                "england_fiction",
+                "fantasy_fiction",
+                "hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)_fiction",
+                "magic_fiction",
+                "potter_harry_(fictitious_character)_fiction",
+                "schools_fiction",
+                "wizards_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL7893441M",
+            "type": "work",
+            "seed": [
+                "/books/OL7893441M",
+                "/works/OL7893441M"
+            ],
+            "title": "Harry Potter And The Sorcer's Stone (The Sorcerer's Stone)",
+            "title_suggest": "Harry Potter And The Sorcer's Stone (The Sorcerer's Stone)",
+            "title_sort": "Harry Potter And The Sorcer's Stone (The Sorcerer's Stone)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7893441M"
+            ],
+            "publish_date": [
+                "1999"
+            ],
+            "publish_year": [
+                1999
+            ],
+            "first_publish_year": 1999,
+            "isbn": [
+                "073669000X",
+                "9780736690003"
+            ],
+            "last_modified_i": 1678282088,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Random House Books On Tape"
+            ],
+            "language": [
+                "eng"
+            ],
+            "id_goodreads": [
+                "170507"
+            ],
+            "id_librarything": [
+                "5403381"
+            ],
+            "publisher_facet": [
+                "Random House Books On Tape"
+            ],
+            "_version_": 1759806320625582083
+        },
+        {
+            "key": "/works/OL8005968M",
+            "type": "work",
+            "seed": [
+                "/books/OL8005968M",
+                "/works/OL8005968M",
+                "/subjects/musical_scores_lyrics_&_libretti",
+                "/subjects/scores_&_soundtracks",
+                "/subjects/music",
+                "/subjects/music/songbooks",
+                "/subjects/songbooks_-_popular",
+                "/subjects/musical_instruments_-_piano",
+                "/authors/OL2628221A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8005968M"
+            ],
+            "publish_date": [
+                "November 1, 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 46,
+            "contributor": [
+                "Ethan Neuburg (Arranger)",
+                "Bill Galliford (Arranger)",
+                "Tod Edmondson (Arranger)"
+            ],
+            "isbn": [
+                "0757991300",
+                "9780757991301"
+            ],
+            "last_modified_i": 1678282101,
+            "ebook_count_i": 1,
+            "ebook_access": "printdisabled",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "harrypottersorce00will"
+            ],
+            "ia_collection": [
+                "librarygenesis",
+                "printdisabled"
+            ],
+            "ia_collection_s": "librarygenesis;printdisabled",
+            "printdisabled_s": "OL8005968M",
+            "cover_edition_key": "OL8005968M",
+            "cover_i": 505148,
+            "publisher": [
+                "Warner-Barham Music, LLC"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A"
+            ],
+            "author_name": [
+                "John Williams"
+            ],
+            "subject": [
+                "Musical scores, lyrics & libretti",
+                "Scores & Soundtracks",
+                "Music",
+                "Music/Songbooks",
+                "Songbooks - Popular",
+                "Musical Instruments - Piano"
+            ],
+            "id_goodreads": [
+                "818929"
+            ],
+            "id_librarything": [
+                "1270212"
+            ],
+            "publisher_facet": [
+                "Warner-Barham Music, LLC"
+            ],
+            "subject_facet": [
+                "Music",
+                "Music/Songbooks",
+                "Musical Instruments - Piano",
+                "Musical scores, lyrics & libretti",
+                "Scores & Soundtracks",
+                "Songbooks - Popular"
+            ],
+            "_version_": 1759806334582128641,
+            "author_facet": [
+                "OL2628221A John Williams"
+            ],
+            "subject_key": [
+                "music",
+                "musical_instruments_-_piano",
+                "musical_scores_lyrics__libretti",
+                "musicsongbooks",
+                "scores__soundtracks",
+                "songbooks_-_popular"
+            ]
+        },
+        {
+            "key": "/works/OL8197249M",
+            "type": "work",
+            "seed": [
+                "/books/OL8197249M",
+                "/works/OL8197249M",
+                "/subjects/education",
+                "/subjects/teaching_methods_&_materials_-_reading",
+                "/authors/OL2891430A",
+                "/authors/OL2891431A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8197249M"
+            ],
+            "publish_date": [
+                "July 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 64,
+            "oclc": [
+                "48017986"
+            ],
+            "isbn": [
+                "9780887246586",
+                "0887246583"
+            ],
+            "last_modified_i": 1678282107,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL8197249M",
+            "cover_i": 4749702,
+            "publisher": [
+                "Carson Dellosa Pub Co Inc"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2891430A",
+                "OL2891431A"
+            ],
+            "author_name": [
+                "Linda Degeronimo",
+                "Anne Diehl"
+            ],
+            "subject": [
+                "Education",
+                "Teaching Methods & Materials - Reading"
+            ],
+            "id_goodreads": [
+                "441070"
+            ],
+            "id_librarything": [
+                "1720353"
+            ],
+            "publisher_facet": [
+                "Carson Dellosa Pub Co Inc"
+            ],
+            "subject_facet": [
+                "Education",
+                "Teaching Methods & Materials - Reading"
+            ],
+            "_version_": 1759806339981246466,
+            "author_facet": [
+                "OL2891430A Linda Degeronimo",
+                "OL2891431A Anne Diehl"
+            ],
+            "subject_key": [
+                "education",
+                "teaching_methods__materials_-_reading"
+            ]
+        },
+        {
+            "key": "/works/OL8946408W",
+            "type": "work",
+            "seed": [
+                "/books/OL8790052M",
+                "/works/OL8946408W",
+                "/authors/OL3097245A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8790052M"
+            ],
+            "publish_date": [
+                "November 1, 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 201,
+            "isbn": [
+                "1583372865",
+                "9781583372869"
+            ],
+            "last_modified_i": 1281433826,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 2,
+            "want_to_read_count": 2,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL8790052M",
+            "cover_i": 847100,
+            "publisher": [
+                "Teachers Pet Pubns Inc"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3097245A"
+            ],
+            "author_name": [
+                "Marion B. Hoffman"
+            ],
+            "id_goodreads": [
+                "4026508"
+            ],
+            "id_librarything": [
+                "1270281"
+            ],
+            "publisher_facet": [
+                "Teachers Pet Pubns Inc"
+            ],
+            "_version_": 1759802713864929281,
+            "author_facet": [
+                "OL3097245A Marion B. Hoffman"
+            ]
+        },
+        {
+            "key": "/works/OL15141632W",
+            "type": "work",
+            "seed": [
+                "/books/OL24209112M",
+                "/works/OL15141632W",
+                "/subjects/pictures",
+                "/subjects/poster_book",
+                "/subjects/posters",
+                "/subjects/potter_harry_(fictitious_character)",
+                "/subjects/person:harry_potter",
+                "/subjects/place:hogwarts",
+                "/authors/OL2843353A"
+            ],
+            "title": "Harry Potter and the sorcerer's stone",
+            "title_suggest": "Harry Potter and the sorcerer's stone",
+            "title_sort": "Harry Potter and the sorcerer's stone",
+            "subtitle": "Poster book.",
+            "edition_count": 1,
+            "edition_key": [
+                "OL24209112M"
+            ],
+            "publish_date": [
+                "2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "publish_place": [
+                "New York"
+            ],
+            "oclc": [
+                "47994402"
+            ],
+            "lcc": [
+                "PN-6727.00000000.H377 H377 2001"
+            ],
+            "isbn": [
+                "9780439286237",
+                "0439286239"
+            ],
+            "last_modified_i": 1671245553,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "harrypottersorce00newy"
+            ],
+            "ia_collection": [
+                "americana",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled",
+                "stmaryscountylibrary",
+                "universityofoklahoma-ol"
+            ],
+            "ia_collection_s": "americana;inlibrary;internetarchivebooks;printdisabled;stmaryscountylibrary;universityofoklahoma-ol",
+            "lending_edition_s": "OL24209112M",
+            "lending_identifier_s": "harrypottersorce00newy",
+            "printdisabled_s": "OL24209112M",
+            "ratings_count_1": 0,
+            "ratings_count_2": 1,
+            "ratings_count_3": 0,
+            "ratings_count_4": 0,
+            "ratings_count_5": 2,
+            "ratings_average": 4.0,
+            "ratings_sortable": 2.5528696,
+            "ratings_count": 3,
+            "readinglog_count": 43,
+            "want_to_read_count": 37,
+            "currently_reading_count": 2,
+            "already_read_count": 4,
+            "cover_edition_key": "OL24209112M",
+            "cover_i": 6509920,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2843353A"
+            ],
+            "author_name": [
+                "Drew Struzan"
+            ],
+            "person": [
+                "Harry Potter"
+            ],
+            "place": [
+                "Hogwarts"
+            ],
+            "subject": [
+                "Pictures",
+                "Poster book",
+                "Posters",
+                "Potter, harry (fictitious character)"
+            ],
+            "ia_box_id": [
+                "IA104701"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "person_key": [
+                "harry_potter"
+            ],
+            "place_key": [
+                "hogwarts"
+            ],
+            "person_facet": [
+                "Harry Potter"
+            ],
+            "subject_facet": [
+                "Pictures",
+                "Poster book",
+                "Posters",
+                "Potter, harry (fictitious character)"
+            ],
+            "_version_": 1759750488061902849,
+            "place_facet": [
+                "Hogwarts"
+            ],
+            "lcc_sort": "PN-6727.00000000.H377 H377 2001",
+            "author_facet": [
+                "OL2843353A Drew Struzan"
+            ],
+            "subject_key": [
+                "pictures",
+                "poster_book",
+                "posters",
+                "potter_harry_(fictitious_character)"
+            ]
+        },
+        {
+            "key": "/works/OL32299745W",
+            "type": "work",
+            "seed": [
+                "/books/OL44048966M",
+                "/works/OL32299745W",
+                "/authors/OL10717148A",
+                "/authors/OL11716475A"
+            ],
+            "title": "Harry Potter and the Sorcerers Stone",
+            "title_suggest": "Harry Potter and the Sorcerers Stone",
+            "title_sort": "Harry Potter and the Sorcerers Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL44048966M"
+            ],
+            "publish_date": [
+                "Dec 16, 2014"
+            ],
+            "publish_year": [
+                2014
+            ],
+            "first_publish_year": 2014,
+            "number_of_pages_median": 243,
+            "isbn": [
+                "9788983925312",
+                "8983925310"
+            ],
+            "last_modified_i": 1675238836,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 1,
+            "ratings_count_4": 0,
+            "ratings_count_5": 0,
+            "ratings_average": 3.0,
+            "ratings_sortable": 2.1948824,
+            "ratings_count": 1,
+            "readinglog_count": 22,
+            "want_to_read_count": 20,
+            "currently_reading_count": 1,
+            "already_read_count": 1,
+            "cover_edition_key": "OL44048966M",
+            "cover_i": 13188354,
+            "publisher": [
+                "Munhaksuchup"
+            ],
+            "author_key": [
+                "OL10717148A",
+                "OL11716475A"
+            ],
+            "author_name": [
+                "J.K. Rowling",
+                "Kim Hyewon"
+            ],
+            "publisher_facet": [
+                "Munhaksuchup"
+            ],
+            "_version_": 1759785602356609026,
+            "author_facet": [
+                "OL10717148A J.K. Rowling",
+                "OL11716475A Kim Hyewon"
+            ]
+        },
+        {
+            "key": "/works/OL28649132W",
+            "type": "work",
+            "seed": [
+                "/books/OL39307477M",
+                "/works/OL28649132W",
+                "/authors/OL2628221A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL39307477M"
+            ],
+            "publish_date": [
+                "2005"
+            ],
+            "publish_year": [
+                2005
+            ],
+            "first_publish_year": 2005,
+            "isbn": [
+                "9781843281573",
+                "1843281570"
+            ],
+            "last_modified_i": 1671501841,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 0,
+            "ratings_count_4": 0,
+            "ratings_count_5": 2,
+            "ratings_average": 5.0,
+            "ratings_sortable": 2.6973765,
+            "ratings_count": 2,
+            "readinglog_count": 11,
+            "want_to_read_count": 9,
+            "currently_reading_count": 0,
+            "already_read_count": 2,
+            "cover_edition_key": "OL39307477M",
+            "cover_i": 13109247,
+            "publisher": [
+                "International Music Publications, Limited"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A"
+            ],
+            "author_name": [
+                "John Williams"
+            ],
+            "publisher_facet": [
+                "International Music Publications, Limited"
+            ],
+            "_version_": 1759778427423948801,
+            "author_facet": [
+                "OL2628221A John Williams"
+            ]
+        },
+        {
+            "key": "/works/OL31306243W",
+            "type": "work",
+            "seed": [
+                "/books/OL7510988M",
+                "/works/OL31306243W",
+                "/subjects/schools_fiction",
+                "/subjects/potter_harry_(fictitious_character)_fiction",
+                "/subjects/wizards_fiction",
+                "/subjects/hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)_fiction",
+                "/subjects/magic_fiction",
+                "/subjects/fantasy_fiction",
+                "/subjects/children's_fiction",
+                "/subjects/england_fiction",
+                "/authors/OL11295942A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7510988M"
+            ],
+            "publish_date": [
+                "August 1, 2000"
+            ],
+            "publish_year": [
+                2000
+            ],
+            "first_publish_year": 2000,
+            "number_of_pages_median": 16,
+            "isbn": [
+                "9780439211161",
+                "0439211166"
+            ],
+            "last_modified_i": 1671289610,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL7510988M",
+            "cover_i": 276518,
+            "publisher": [
+                "Scholastic Professional Books"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11295942A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "subject": [
+                "Schools, fiction",
+                "Potter, harry (fictitious character), fiction",
+                "Wizards, fiction",
+                "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+                "Magic, fiction",
+                "Fantasy fiction",
+                "Children's fiction",
+                "England, fiction"
+            ],
+            "id_goodreads": [
+                "862271"
+            ],
+            "id_librarything": [
+                "1270256"
+            ],
+            "publisher_facet": [
+                "Scholastic Professional Books"
+            ],
+            "subject_facet": [
+                "Children's fiction",
+                "England, fiction",
+                "Fantasy fiction",
+                "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+                "Magic, fiction",
+                "Potter, harry (fictitious character), fiction",
+                "Schools, fiction",
+                "Wizards, fiction"
+            ],
+            "_version_": 1759783802042843137,
+            "author_facet": [
+                "OL11295942A J. K. Rowling"
+            ],
+            "subject_key": [
+                "children's_fiction",
+                "england_fiction",
+                "fantasy_fiction",
+                "hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)_fiction",
+                "magic_fiction",
+                "potter_harry_(fictitious_character)_fiction",
+                "schools_fiction",
+                "wizards_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL34309505W",
+            "type": "work",
+            "seed": [
+                "/books/OL46529583M",
+                "/works/OL34309505W",
+                "/authors/OL10717148A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46529583M"
+            ],
+            "publish_date": [
+                "Mar 01, 1999"
+            ],
+            "publish_year": [
+                1999
+            ],
+            "first_publish_year": 1999,
+            "number_of_pages_median": 450,
+            "isbn": [
+                "9780939173341",
+                "0939173344"
+            ],
+            "last_modified_i": 1675178528,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL46529583M",
+            "cover_i": 13174593,
+            "publisher": [
+                "Scholastic Paperbacks"
+            ],
+            "author_key": [
+                "OL10717148A"
+            ],
+            "author_name": [
+                "J.K. Rowling"
+            ],
+            "publisher_facet": [
+                "Scholastic Paperbacks"
+            ],
+            "_version_": 1759789700200005632,
+            "author_facet": [
+                "OL10717148A J.K. Rowling"
+            ]
+        },
+        {
+            "key": "/works/OL18255811W",
+            "type": "work",
+            "seed": [
+                "/books/OL3969402M",
+                "/works/OL18255811W",
+                "/subjects/magic",
+                "/subjects/stories_without_words",
+                "/subjects/toy_and_movable_books",
+                "/subjects/juvenile_fiction",
+                "/subjects/hogwarts_school_of_witchcraft_and_wizardry_(imaginary_place)",
+                "/subjects/fiction",
+                "/subjects/wizards",
+                "/subjects/schools",
+                "/subjects/specimens",
+                "/subjects/hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)",
+                "/subjects/potter_harry_(fictitious_character)_fiction",
+                "/subjects/children's_fiction",
+                "/subjects/wizards_fiction",
+                "/subjects/magic_fiction",
+                "/subjects/hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)_fiction",
+                "/subjects/england_fiction",
+                "/subjects/schools_fiction",
+                "/subjects/fantasy_fiction",
+                "/subjects/place:england",
+                "/authors/OL5922759A"
+            ],
+            "title": "Harry Potter and the sorcerer's stone",
+            "title_suggest": "Harry Potter and the sorcerer's stone",
+            "title_sort": "Harry Potter and the sorcerer's stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL3969402M"
+            ],
+            "publish_date": [
+                "2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "lccn": [
+                "2001275875"
+            ],
+            "publish_place": [
+                "[United States]"
+            ],
+            "oclc": [
+                "47954598"
+            ],
+            "contributor": [
+                "Smith, Rodger, ill.",
+                "Daniels, Jill, ill."
+            ],
+            "lcc": [
+                "PZ-0007.00000000.H25623 2001"
+            ],
+            "ddc": [
+                "[Fic]"
+            ],
+            "isbn": [
+                "0439294827",
+                "9780439294829"
+            ],
+            "last_modified_i": 1671293114,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 0,
+            "ratings_count_4": 0,
+            "ratings_count_5": 1,
+            "ratings_average": 5.0,
+            "ratings_sortable": 2.4036636,
+            "ratings_count": 1,
+            "readinglog_count": 8,
+            "want_to_read_count": 6,
+            "currently_reading_count": 1,
+            "already_read_count": 1,
+            "cover_edition_key": "OL3969402M",
+            "cover_i": 276977,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL5922759A"
+            ],
+            "author_name": [
+                "Jill Daniels"
+            ],
+            "place": [
+                "England"
+            ],
+            "subject": [
+                "Magic",
+                "Stories without words",
+                "Toy and movable books",
+                "Juvenile fiction",
+                "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
+                "Fiction",
+                "Wizards",
+                "Schools",
+                "Specimens",
+                "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
+                "Potter, harry (fictitious character), fiction",
+                "Children's fiction",
+                "Wizards, fiction",
+                "Magic, fiction",
+                "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+                "England, fiction",
+                "Schools, fiction",
+                "Fantasy fiction"
+            ],
+            "id_goodreads": [
+                "43506"
+            ],
+            "id_librarything": [
+                "3550799"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "place_key": [
+                "england"
+            ],
+            "subject_facet": [
+                "Children's fiction",
+                "England, fiction",
+                "Fantasy fiction",
+                "Fiction",
+                "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
+                "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
+                "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+                "Juvenile fiction",
+                "Magic",
+                "Magic, fiction",
+                "Potter, harry (fictitious character), fiction",
+                "Schools",
+                "Schools, fiction",
+                "Specimens",
+                "Stories without words",
+                "Toy and movable books",
+                "Wizards",
+                "Wizards, fiction"
+            ],
+            "_version_": 1759757462583377920,
+            "place_facet": [
+                "England"
+            ],
+            "lcc_sort": "PZ-0007.00000000.H25623 2001",
+            "author_facet": [
+                "OL5922759A Jill Daniels"
+            ],
+            "subject_key": [
+                "children's_fiction",
+                "england_fiction",
+                "fantasy_fiction",
+                "fiction",
+                "hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)",
+                "hogwarts_school_of_witchcraft_and_wizardry_(imaginary_organization)_fiction",
+                "hogwarts_school_of_witchcraft_and_wizardry_(imaginary_place)",
+                "juvenile_fiction",
+                "magic",
+                "magic_fiction",
+                "potter_harry_(fictitious_character)_fiction",
+                "schools",
+                "schools_fiction",
+                "specimens",
+                "stories_without_words",
+                "toy_and_movable_books",
+                "wizards",
+                "wizards_fiction"
+            ],
+            "ddc_sort": "[Fic]"
+        },
+        {
+            "key": "/works/OL17937389W",
+            "type": "work",
+            "seed": [
+                "/books/OL7511678M",
+                "/works/OL17937389W",
+                "/authors/OL5922759A",
+                "/authors/OL1028066A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7511678M"
+            ],
+            "publish_date": [
+                "2001 September"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 24,
+            "oclc": [
+                "466254656",
+                "47954598"
+            ],
+            "contributor": [
+                "Rodger Smith (Illustrator)",
+                "Jill Daneils (Illustrator)"
+            ],
+            "isbn": [
+                "9780439294829",
+                "0439294827"
+            ],
+            "last_modified_i": 1545927735,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 2,
+            "want_to_read_count": 2,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL7511678M",
+            "cover_i": 276978,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL5922759A",
+                "OL1028066A"
+            ],
+            "author_name": [
+                "Jill Daniels",
+                "Rodger Smith"
+            ],
+            "id_amazon": [
+                "0439294827"
+            ],
+            "id_goodreads": [
+                "43506"
+            ],
+            "id_librarything": [
+                "3550799"
+            ],
+            "id_paperback_swap": [
+                "0439294827"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "_version_": 1759756378821361665,
+            "author_facet": [
+                "OL1028066A Rodger Smith",
+                "OL5922759A Jill Daniels"
+            ]
+        },
+        {
+            "key": "/works/OL28756274W",
+            "type": "work",
+            "seed": [
+                "/books/OL39466674M",
+                "/works/OL28756274W",
+                "/authors/OL23919A",
+                "/authors/OL2703953A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, Book 1)",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone (Harry Potter, Book 1)",
+            "title_sort": "Harry Potter and the Sorcerer's Stone (Harry Potter, Book 1)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL39466674M"
+            ],
+            "publish_date": [
+                "2023"
+            ],
+            "publish_year": [
+                2023
+            ],
+            "first_publish_year": 2023,
+            "isbn": [
+                "9781338878929",
+                "1338878921"
+            ],
+            "last_modified_i": 1667279688,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 4,
+            "want_to_read_count": 4,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Scholastic, Incorporated"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL23919A",
+                "OL2703953A"
+            ],
+            "author_name": [
+                "J. K. Rowling",
+                "Mary GrandPr\u00e9"
+            ],
+            "author_alternative_name": [
+                "Kennilworthy Whisp",
+                "\u0414\u0436\u043e\u0430\u043d \u0420\u043e\u0443\u043b\u0456\u043d\u0433",
+                "Rouling Dzh.K.",
+                "Jo Murray",
+                "JK Rowling",
+                "Newton Scamander",
+                "\u0631\u0648\u0628\u0631\u062a \u063a\u0627\u0644\u0628\u0631\u064a\u062b - Robert Galbraith",
+                "Dzhoan Rouling",
+                "Newt Scamander",
+                "ROWLING",
+                "Mary GrandPre",
+                "Joanne Rowling",
+                "J.K. Rowling",
+                "Joanne K. Rowling",
+                "Robert Galbraith"
+            ],
+            "publisher_facet": [
+                "Scholastic, Incorporated"
+            ],
+            "_version_": 1759778622288166913,
+            "author_facet": [
+                "OL23919A J. K. Rowling",
+                "OL2703953A Mary GrandPr\u00e9"
+            ]
+        },
+        {
+            "key": "/works/OL7921501M",
+            "type": "work",
+            "seed": [
+                "/books/OL7921501M",
+                "/works/OL7921501M",
+                "/subjects/imagination_&_play",
+                "/subjects/film",
+                "/subjects/science_fiction_fantasy_&_magic",
+                "/subjects/non-classifiable",
+                "/subjects/children's_9-12_-_fiction_-_fantasy",
+                "/subjects/calendar"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone 2002 Calendar",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone 2002 Calendar",
+            "title_sort": "Harry Potter and the Sorcerer's Stone 2002 Calendar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7921501M"
+            ],
+            "publish_date": [
+                "September 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "isbn": [
+                "9780740715778",
+                "0740715771"
+            ],
+            "last_modified_i": 1678282091,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL7921501M",
+            "cover_i": 469467,
+            "publisher": [
+                "Andrews McMeel Publishing"
+            ],
+            "language": [
+                "eng"
+            ],
+            "subject": [
+                "Imagination & Play",
+                "Film",
+                "Science Fiction, Fantasy, & Magic",
+                "Non-Classifiable",
+                "Children's 9-12 - Fiction - Fantasy",
+                "Calendar"
+            ],
+            "id_librarything": [
+                "1859592"
+            ],
+            "publisher_facet": [
+                "Andrews McMeel Publishing"
+            ],
+            "subject_facet": [
+                "Calendar",
+                "Children's 9-12 - Fiction - Fantasy",
+                "Film",
+                "Imagination & Play",
+                "Non-Classifiable",
+                "Science Fiction, Fantasy, & Magic"
+            ],
+            "_version_": 1759806322961809408,
+            "subject_key": [
+                "calendar",
+                "children's_9-12_-_fiction_-_fantasy",
+                "film",
+                "imagination__play",
+                "non-classifiable",
+                "science_fiction_fantasy__magic"
+            ]
+        },
+        {
+            "key": "/works/OL9391404M",
+            "type": "work",
+            "seed": [
+                "/books/OL9391404M",
+                "/works/OL9391404M",
+                "/subjects/science_fiction_fantasy_&_magic",
+                "/subjects/film",
+                "/subjects/children's",
+                "/subjects/non-classifiable",
+                "/subjects/children's_9-12_-_fiction_-_fantasy",
+                "/subjects/calendar"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone 2002 Calendar",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone 2002 Calendar",
+            "title_sort": "Harry Potter and the Sorcerer's Stone 2002 Calendar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL9391404M"
+            ],
+            "publish_date": [
+                "September 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "isbn": [
+                "9780740717550",
+                "0740717553"
+            ],
+            "last_modified_i": 1678282194,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL9391404M",
+            "cover_i": 1379704,
+            "publisher": [
+                "Andrews McMeel Publishing"
+            ],
+            "language": [
+                "eng"
+            ],
+            "subject": [
+                "Science Fiction, Fantasy, & Magic",
+                "Film",
+                "Children's",
+                "Non-Classifiable",
+                "Children's 9-12 - Fiction - Fantasy",
+                "Calendar"
+            ],
+            "publisher_facet": [
+                "Andrews McMeel Publishing"
+            ],
+            "subject_facet": [
+                "Calendar",
+                "Children's",
+                "Children's 9-12 - Fiction - Fantasy",
+                "Film",
+                "Non-Classifiable",
+                "Science Fiction, Fantasy, & Magic"
+            ],
+            "_version_": 1759806432215040000,
+            "subject_key": [
+                "calendar",
+                "children's",
+                "children's_9-12_-_fiction_-_fantasy",
+                "film",
+                "non-classifiable",
+                "science_fiction_fantasy__magic"
+            ]
+        },
+        {
+            "key": "/works/OL8487794W",
+            "type": "work",
+            "seed": [
+                "/books/OL8005975M",
+                "/works/OL8487794W",
+                "/subjects/motion_picture_music",
+                "/authors/OL2834598A"
+            ],
+            "title": "Themes from Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Themes from Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Themes from Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8005975M"
+            ],
+            "publish_date": [
+                "February 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "oclc": [
+                "49336425"
+            ],
+            "isbn": [
+                "0757991718",
+                "9780757991714"
+            ],
+            "last_modified_i": 1670475220,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL8005975M",
+            "cover_i": 1416545,
+            "publisher": [
+                "Alfred Publishing Company"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2834598A"
+            ],
+            "author_name": [
+                "Gail Lew"
+            ],
+            "subject": [
+                "Motion picture music"
+            ],
+            "id_goodreads": [
+                "139245"
+            ],
+            "id_librarything": [
+                "2192773"
+            ],
+            "publisher_facet": [
+                "Alfred Publishing Company"
+            ],
+            "subject_facet": [
+                "Motion picture music"
+            ],
+            "_version_": 1759801579039358978,
+            "author_facet": [
+                "OL2834598A Gail Lew"
+            ],
+            "subject_key": [
+                "motion_picture_music"
+            ]
+        },
+        {
+            "key": "/works/OL848586W",
+            "type": "work",
+            "seed": [
+                "/books/OL7511619M",
+                "/works/OL848586W",
+                "/subjects/coloring_books",
+                "/subjects/potter_harry_(fictitious_character)",
+                "/authors/OL73308A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone Coloring Adventures",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone Coloring Adventures",
+            "title_sort": "Harry Potter and the Sorcerer's Stone Coloring Adventures",
+            "subtitle": " Learning to Fly (With a Collectible Cutout Character and Lightning Bolt Shaped Crayons)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7511619M"
+            ],
+            "publish_date": [
+                "November 1, 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 32,
+            "isbn": [
+                "9780439286169",
+                "0439286166"
+            ],
+            "last_modified_i": 1671246632,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL7511619M",
+            "cover_i": 1228538,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL73308A"
+            ],
+            "author_name": [
+                "Liza Baker"
+            ],
+            "subject": [
+                "Coloring books",
+                "Potter, harry (fictitious character)"
+            ],
+            "id_goodreads": [
+                "2941974"
+            ],
+            "id_librarything": [
+                "2512979"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "subject_facet": [
+                "Coloring books",
+                "Potter, harry (fictitious character)"
+            ],
+            "_version_": 1759801519611314176,
+            "author_facet": [
+                "OL73308A Liza Baker"
+            ],
+            "subject_key": [
+                "coloring_books",
+                "potter_harry_(fictitious_character)"
+            ]
+        },
+        {
+            "key": "/works/OL14942686W",
+            "type": "work",
+            "seed": [
+                "/books/OL8821386M",
+                "/works/OL14942686W",
+                "/subjects/rowling_j._k._1965-",
+                "/subjects/potter_harry_(fictitious_character)",
+                "/authors/OL2964716A"
+            ],
+            "title": "Spark Notes Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Spark Notes Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Spark Notes Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8821386M"
+            ],
+            "publish_date": [
+                "July 15, 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 72,
+            "oclc": [
+                "52512526"
+            ],
+            "isbn": [
+                "9781586635183",
+                "1586635182"
+            ],
+            "last_modified_i": 1671705652,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL8821386M",
+            "cover_i": 853540,
+            "publisher": [
+                "SparkNotes"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2964716A"
+            ],
+            "author_name": [
+                "SparkNotes"
+            ],
+            "author_alternative_name": [
+                "SparkNotes Editors",
+                "Spark Notes",
+                "SparkNotes LLC"
+            ],
+            "subject": [
+                "Rowling, j. k., 1965-",
+                "Potter, harry (fictitious character)"
+            ],
+            "id_goodreads": [
+                "61235"
+            ],
+            "id_librarything": [
+                "1270222"
+            ],
+            "publisher_facet": [
+                "SparkNotes"
+            ],
+            "subject_facet": [
+                "Potter, harry (fictitious character)",
+                "Rowling, j. k., 1965-"
+            ],
+            "_version_": 1759749838696611840,
+            "author_facet": [
+                "OL2964716A SparkNotes"
+            ],
+            "subject_key": [
+                "potter_harry_(fictitious_character)",
+                "rowling_j._k._1965-"
+            ]
+        },
+        {
+            "key": "/works/OL32425878W",
+            "type": "work",
+            "seed": [
+                "/books/OL44201414M",
+                "/works/OL32425878W",
+                "/subjects/potter_harry_(fictitious_character)",
+                "/subjects/postcards_juvenile_literature",
+                "/authors/OL8035711A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone Postcard Book",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone Postcard Book",
+            "title_sort": "Harry Potter and the Sorcerer's Stone Postcard Book",
+            "edition_count": 1,
+            "edition_key": [
+                "OL44201414M"
+            ],
+            "publish_date": [
+                "2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "isbn": [
+                "0439288568",
+                "9780439288569"
+            ],
+            "last_modified_i": 1677551382,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Scholastic, Incorporated",
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8035711A"
+            ],
+            "author_name": [
+                "Inc. Staff Scholastic"
+            ],
+            "subject": [
+                "Potter, harry (fictitious character)",
+                "Postcards, juvenile literature"
+            ],
+            "publisher_facet": [
+                "Scholastic",
+                "Scholastic, Incorporated"
+            ],
+            "subject_facet": [
+                "Postcards, juvenile literature",
+                "Potter, harry (fictitious character)"
+            ],
+            "_version_": 1759863915739611136,
+            "author_facet": [
+                "OL8035711A Inc. Staff Scholastic"
+            ],
+            "subject_key": [
+                "postcards_juvenile_literature",
+                "potter_harry_(fictitious_character)"
+            ]
+        },
+        {
+            "key": "/works/OL29500213W",
+            "type": "work",
+            "seed": [
+                "/books/OL40603531M",
+                "/works/OL29500213W",
+                "/authors/OL10902482A",
+                "/authors/OL10902483A"
+            ],
+            "title": "Ultimate Harry Potter and the Sorcerer's Stone Trivia Book",
+            "title_suggest": "Ultimate Harry Potter and the Sorcerer's Stone Trivia Book",
+            "title_sort": "Ultimate Harry Potter and the Sorcerer's Stone Trivia Book",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40603531M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "1981082018",
+                "9781981082018"
+            ],
+            "last_modified_i": 1668910824,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10902482A",
+                "OL10902483A"
+            ],
+            "author_name": [
+                "Two Wizards",
+                "Meghan Perricone"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1759780325433540610,
+            "author_facet": [
+                "OL10902482A Two Wizards",
+                "OL10902483A Meghan Perricone"
+            ]
+        },
+        {
+            "key": "/works/OL30823094W",
+            "type": "work",
+            "seed": [
+                "/books/OL42350011M",
+                "/works/OL30823094W",
+                "/authors/OL11277918A"
+            ],
+            "title": "Livre de Coloriage Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Livre de Coloriage Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Livre de Coloriage Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42350011M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798559002637"
+            ],
+            "last_modified_i": 1669915430,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "fre"
+            ],
+            "author_key": [
+                "OL11277918A"
+            ],
+            "author_name": [
+                "Edition HP"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1759782742140125184,
+            "author_facet": [
+                "OL11277918A Edition HP"
+            ]
+        },
+        {
+            "key": "/works/OL32476081W",
+            "type": "work",
+            "seed": [
+                "/books/OL44262059M",
+                "/works/OL32476081W",
+                "/authors/OL8035840A",
+                "/authors/OL11295942A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone (SparkNotes Literature Guide)",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone (SparkNotes Literature Guide)",
+            "title_sort": "Harry Potter and the Sorcerer's Stone (SparkNotes Literature Guide)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL44262059M"
+            ],
+            "publish_date": [
+                "2014"
+            ],
+            "publish_year": [
+                2014
+            ],
+            "first_publish_year": 2014,
+            "isbn": [
+                "9781411475441",
+                "1411475445"
+            ],
+            "last_modified_i": 1671308436,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Sterling Publishing Co., Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8035840A",
+                "OL11295942A"
+            ],
+            "author_name": [
+                "SparkNotes Staff",
+                "J. K. Rowling"
+            ],
+            "publisher_facet": [
+                "Sterling Publishing Co., Inc."
+            ],
+            "_version_": 1759786110773362688,
+            "author_facet": [
+                "OL11295942A J. K. Rowling",
+                "OL8035840A SparkNotes Staff"
+            ]
+        },
+        {
+            "key": "/works/OL26526301W",
+            "type": "work",
+            "seed": [
+                "/books/OL11019315M",
+                "/works/OL26526301W",
+                "/subjects/motion_picture_music",
+                "/authors/OL2628221A"
+            ],
+            "title": "Two Themes from Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Two Themes from Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Two Themes from Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL11019315M"
+            ],
+            "publish_date": [
+                "December 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 6,
+            "isbn": [
+                "9780634043703",
+                "0634043706"
+            ],
+            "last_modified_i": 1640520893,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL11019315M",
+            "cover_i": 2544609,
+            "publisher": [
+                "Hal Leonard Publishing Corporation"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A"
+            ],
+            "author_name": [
+                "John Williams"
+            ],
+            "subject": [
+                "Motion picture music"
+            ],
+            "id_goodreads": [
+                "2516194"
+            ],
+            "id_librarything": [
+                "9543703"
+            ],
+            "publisher_facet": [
+                "Hal Leonard Publishing Corporation"
+            ],
+            "subject_facet": [
+                "Motion picture music"
+            ],
+            "_version_": 1759774197478850561,
+            "author_facet": [
+                "OL2628221A John Williams"
+            ],
+            "subject_key": [
+                "motion_picture_music"
+            ]
+        },
+        {
+            "key": "/works/OL24871775W",
+            "type": "work",
+            "seed": [
+                "/books/OL33059945M",
+                "/works/OL24871775W",
+                "/authors/OL9312843A"
+            ],
+            "title": "STUDY GUIDE FOR HARRY POTTER AND THE SORCERER'S STONE",
+            "title_suggest": "STUDY GUIDE FOR HARRY POTTER AND THE SORCERER'S STONE",
+            "title_sort": "STUDY GUIDE FOR HARRY POTTER AND THE SORCERER'S STONE",
+            "edition_count": 1,
+            "edition_key": [
+                "OL33059945M"
+            ],
+            "publish_date": [
+                "Sep 17, 2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "number_of_pages_median": 69,
+            "isbn": [
+                "1693659115",
+                "9781693659119"
+            ],
+            "last_modified_i": 1669445385,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL33059945M",
+            "cover_i": 11761731,
+            "publisher": [
+                "Independently Published",
+                "Independently published"
+            ],
+            "author_key": [
+                "OL9312843A"
+            ],
+            "author_name": [
+                "Mattie Hamby"
+            ],
+            "publisher_facet": [
+                "Independently Published",
+                "Independently published"
+            ],
+            "_version_": 1759771107501539329,
+            "author_facet": [
+                "OL9312843A Mattie Hamby"
+            ]
+        },
+        {
+            "key": "/works/OL15267600W",
+            "type": "work",
+            "seed": [
+                "/books/OL7511624M",
+                "/works/OL15267600W",
+                "/authors/OL2843353A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone Movie Poster Book",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone Movie Poster Book",
+            "title_sort": "Harry Potter and the Sorcerer's Stone Movie Poster Book",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7511624M"
+            ],
+            "publish_date": [
+                "July 31, 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 32,
+            "oclc": [
+                "47994402"
+            ],
+            "isbn": [
+                "9780439286237",
+                "0439286239"
+            ],
+            "last_modified_i": 1546123534,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL7511624M",
+            "cover_i": 276943,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2843353A"
+            ],
+            "author_name": [
+                "Drew Struzan"
+            ],
+            "id_goodreads": [
+                "257938"
+            ],
+            "id_librarything": [
+                "3550760"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "_version_": 1759750802194300928,
+            "author_facet": [
+                "OL2843353A Drew Struzan"
+            ]
+        },
+        {
+            "key": "/works/OL8669157M",
+            "type": "work",
+            "seed": [
+                "/books/OL8669157M",
+                "/works/OL8669157M",
+                "/authors/OL3057855A",
+                "/authors/OL3057856A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone. L-I-T Guide",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone. L-I-T Guide",
+            "title_sort": "Harry Potter and the Sorcerer's Stone. L-I-T Guide",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8669157M"
+            ],
+            "publish_date": [
+                "January 1, 2000"
+            ],
+            "publish_year": [
+                2000
+            ],
+            "first_publish_year": 2000,
+            "number_of_pages_median": 56,
+            "oclc": [
+                "56882665"
+            ],
+            "isbn": [
+                "9781566440646",
+                "1566440645"
+            ],
+            "last_modified_i": 1678282138,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Educational Impressions, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3057855A",
+                "OL3057856A"
+            ],
+            "author_name": [
+                "Barbara T. Doherty",
+                "Charlotte S. Jaffe"
+            ],
+            "id_goodreads": [
+                "4026522"
+            ],
+            "id_librarything": [
+                "744397"
+            ],
+            "publisher_facet": [
+                "Educational Impressions, Inc."
+            ],
+            "_version_": 1759806373923651584,
+            "author_facet": [
+                "OL3057855A Barbara T. Doherty",
+                "OL3057856A Charlotte S. Jaffe"
+            ]
+        },
+        {
+            "key": "/works/OL34322872W",
+            "type": "work",
+            "seed": [
+                "/books/OL46543230M",
+                "/works/OL34322872W",
+                "/authors/OL10717148A"
+            ],
+            "title": "Harry Potter e la pietra filosofale vol. 1 [ Harry Potter and the Sorcerer's Stone - Italian ]",
+            "title_suggest": "Harry Potter e la pietra filosofale vol. 1 [ Harry Potter and the Sorcerer's Stone - Italian ]",
+            "title_sort": "Harry Potter e la pietra filosofale vol. 1 [ Harry Potter and the Sorcerer's Stone - Italian ]",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46543230M"
+            ],
+            "publish_date": [
+                "Apr 18, 2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "number_of_pages_median": 302,
+            "isbn": [
+                "0320094200",
+                "9780320094200"
+            ],
+            "last_modified_i": 1676106616,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL46543230M",
+            "cover_i": 13297866,
+            "publisher": [
+                "French and European Publications Inc"
+            ],
+            "author_key": [
+                "OL10717148A"
+            ],
+            "author_name": [
+                "J.K. Rowling"
+            ],
+            "publisher_facet": [
+                "French and European Publications Inc"
+            ],
+            "_version_": 1759789540131733504,
+            "author_facet": [
+                "OL10717148A J.K. Rowling"
+            ]
+        },
+        {
+            "key": "/works/OL34308286W",
+            "type": "work",
+            "seed": [
+                "/books/OL46528248M",
+                "/works/OL34308286W",
+                "/authors/OL9102949A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone - Student Packet by Novel Units",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone - Student Packet by Novel Units",
+            "title_sort": "Harry Potter and the Sorcerer's Stone - Student Packet by Novel Units",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46528248M"
+            ],
+            "publish_date": [
+                "Jan 01, 1999"
+            ],
+            "publish_year": [
+                1999
+            ],
+            "first_publish_year": 1999,
+            "number_of_pages_median": 44,
+            "isbn": [
+                "1581306075",
+                "9781581306071"
+            ],
+            "last_modified_i": 1674894506,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL46528248M",
+            "cover_i": 13160050,
+            "publisher": [
+                "Novel Units, Inc.",
+                "Brand: Novel Units, Inc."
+            ],
+            "author_key": [
+                "OL9102949A"
+            ],
+            "author_name": [
+                "Novel Units"
+            ],
+            "publisher_facet": [
+                "Brand: Novel Units, Inc.",
+                "Novel Units, Inc."
+            ],
+            "_version_": 1759789654364651521,
+            "author_facet": [
+                "OL9102949A Novel Units"
+            ]
+        },
+        {
+            "key": "/works/OL18145104W",
+            "type": "work",
+            "seed": [
+                "/books/OL7511627M",
+                "/works/OL18145104W",
+                "/subjects/coloring_books",
+                "/authors/OL2834649A",
+                "/authors/OL9611183A"
+            ],
+            "title": "Scenes from Harry Potter and the Sorcerer's Stone Stained Glass Art (Harry Potter Stained Glass Books)",
+            "title_suggest": "Scenes from Harry Potter and the Sorcerer's Stone Stained Glass Art (Harry Potter Stained Glass Books)",
+            "title_sort": "Scenes from Harry Potter and the Sorcerer's Stone Stained Glass Art (Harry Potter Stained Glass Books)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7511627M"
+            ],
+            "publish_date": [
+                "May 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 32,
+            "oclc": [
+                "47689086"
+            ],
+            "isbn": [
+                "0439286336",
+                "9780439286336"
+            ],
+            "last_modified_i": 1671287502,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL7511627M",
+            "cover_i": 276945,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2834649A",
+                "OL9611183A"
+            ],
+            "author_name": [
+                "Warner Bros",
+                "Warner Bros. Entertainment Staff"
+            ],
+            "author_alternative_name": [
+                "Warner Bros. Publication",
+                "Warner Bros.",
+                "WARNER BROS.",
+                "Warner Bros Entertainment",
+                "Warner Bros Publications",
+                "Inc. Warner Bros.",
+                "Bros Warner",
+                "Warner Bros. Publications"
+            ],
+            "subject": [
+                "Coloring books"
+            ],
+            "id_goodreads": [
+                "6484643"
+            ],
+            "id_librarything": [
+                "1627116"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "subject_facet": [
+                "Coloring books"
+            ],
+            "_version_": 1759757174111731712,
+            "author_facet": [
+                "OL2834649A Warner Bros",
+                "OL9611183A Warner Bros. Entertainment Staff"
+            ],
+            "subject_key": [
+                "coloring_books"
+            ]
+        },
+        {
+            "key": "/works/OL9533546M",
+            "type": "work",
+            "seed": [
+                "/books/OL9533546M",
+                "/works/OL9533546M",
+                "/subjects/musical_scores_lyrics_&_libretti",
+                "/subjects/songbooks_-_popular",
+                "/subjects/musical_instruments_-_brass",
+                "/subjects/music",
+                "/subjects/music/songbooks",
+                "/subjects/scores_&_soundtracks",
+                "/subjects/musical_instruments_-_woodwinds",
+                "/authors/OL2628221A",
+                "/authors/OL2834710A"
+            ],
+            "title": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL9533546M"
+            ],
+            "publish_date": [
+                "April 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 16,
+            "isbn": [
+                "0757992269",
+                "9780757992261"
+            ],
+            "last_modified_i": 1678282200,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL9533546M",
+            "cover_i": 1416553,
+            "publisher": [
+                "Alfred Publishing Company"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A",
+                "OL2834710A"
+            ],
+            "author_name": [
+                "John Williams",
+                "Victor Lopez"
+            ],
+            "subject": [
+                "Musical scores, lyrics & libretti",
+                "Songbooks - Popular",
+                "Musical Instruments - Brass",
+                "Music",
+                "Music/Songbooks",
+                "Scores & Soundtracks",
+                "Musical Instruments - Woodwinds"
+            ],
+            "id_goodreads": [
+                "2429029"
+            ],
+            "publisher_facet": [
+                "Alfred Publishing Company"
+            ],
+            "subject_facet": [
+                "Music",
+                "Music/Songbooks",
+                "Musical Instruments - Brass",
+                "Musical Instruments - Woodwinds",
+                "Musical scores, lyrics & libretti",
+                "Scores & Soundtracks",
+                "Songbooks - Popular"
+            ],
+            "_version_": 1759806443779784704,
+            "author_facet": [
+                "OL2628221A John Williams",
+                "OL2834710A Victor Lopez"
+            ],
+            "subject_key": [
+                "music",
+                "musical_instruments_-_brass",
+                "musical_instruments_-_woodwinds",
+                "musical_scores_lyrics__libretti",
+                "musicsongbooks",
+                "scores__soundtracks",
+                "songbooks_-_popular"
+            ]
+        },
+        {
+            "key": "/works/OL7511625M",
+            "type": "work",
+            "seed": [
+                "/books/OL7511625M",
+                "/works/OL7511625M"
+            ],
+            "title": "The Creatures of Harry Potter and the Sorcerer's Stone (Deluxe Coloring Kit)",
+            "title_suggest": "The Creatures of Harry Potter and the Sorcerer's Stone (Deluxe Coloring Kit)",
+            "title_sort": "The Creatures of Harry Potter and the Sorcerer's Stone (Deluxe Coloring Kit)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7511625M"
+            ],
+            "publish_date": [
+                "May 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 32,
+            "oclc": [
+                "48040981"
+            ],
+            "isbn": [
+                "9780439286251",
+                "0439286255"
+            ],
+            "last_modified_i": 1678282836,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL7511625M",
+            "cover_i": 276944,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "id_goodreads": [
+                "862270"
+            ],
+            "id_librarything": [
+                "1695198"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "_version_": 1759807104550436864
+        },
+        {
+            "key": "/works/OL12575322M",
+            "type": "work",
+            "seed": [
+                "/books/OL12575322M",
+                "/works/OL12575322M",
+                "/subjects/music",
+                "/authors/OL2628221A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "title_sort": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "edition_count": 1,
+            "edition_key": [
+                "OL12575322M"
+            ],
+            "publish_date": [
+                "January 2003"
+            ],
+            "publish_year": [
+                2003
+            ],
+            "first_publish_year": 2003,
+            "isbn": [
+                "9785552332687",
+                "5552332687"
+            ],
+            "last_modified_i": 1678280897,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Warner Brothers Publications"
+            ],
+            "author_key": [
+                "OL2628221A"
+            ],
+            "author_name": [
+                "John Williams"
+            ],
+            "subject": [
+                "Music"
+            ],
+            "id_goodreads": [
+                "3467598"
+            ],
+            "publisher_facet": [
+                "Warner Brothers Publications"
+            ],
+            "subject_facet": [
+                "Music"
+            ],
+            "_version_": 1759805071266152449,
+            "author_facet": [
+                "OL2628221A John Williams"
+            ],
+            "subject_key": [
+                "music"
+            ]
+        },
+        {
+            "key": "/works/OL31209589W",
+            "type": "work",
+            "seed": [
+                "/books/OL8005981M",
+                "/works/OL31209589W",
+                "/authors/OL2628221A",
+                "/authors/OL2834710A"
+            ],
+            "title": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8005981M"
+            ],
+            "publish_date": [
+                "April 1, 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 16,
+            "isbn": [
+                "0757992250",
+                "9780757992254"
+            ],
+            "last_modified_i": 1670410252,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "selectedthemesfr0000will"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL8005981M",
+            "lending_identifier_s": "selectedthemesfr0000will",
+            "printdisabled_s": "OL8005981M",
+            "cover_edition_key": "OL8005981M",
+            "cover_i": 1416552,
+            "first_sentence": [
+                "Find a broom - stick in your stock - ing, see the mag - ic on dis - play."
+            ],
+            "publisher": [
+                "Alfred Publishing Company"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A",
+                "OL2834710A"
+            ],
+            "author_name": [
+                "John Williams",
+                "Victor Lopez"
+            ],
+            "id_goodreads": [
+                "3355"
+            ],
+            "id_librarything": [
+                "1270212"
+            ],
+            "ia_box_id": [
+                "IA40754013"
+            ],
+            "publisher_facet": [
+                "Alfred Publishing Company"
+            ],
+            "_version_": 1759783671012786178,
+            "author_facet": [
+                "OL2628221A John Williams",
+                "OL2834710A Victor Lopez"
+            ]
+        },
+        {
+            "key": "/works/OL18145107W",
+            "type": "work",
+            "seed": [
+                "/books/OL10873399M",
+                "/works/OL18145107W",
+                "/subjects/musical_scores_lyrics_&_libretti",
+                "/subjects/scores_&_soundtracks",
+                "/subjects/songbooks_-_popular",
+                "/subjects/musical_instruments_-_woodwinds",
+                "/subjects/music",
+                "/subjects/music/songbooks",
+                "/authors/OL2628221A",
+                "/authors/OL2834710A"
+            ],
+            "title": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL10873399M"
+            ],
+            "publish_date": [
+                "April 1, 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 16,
+            "isbn": [
+                "9780757992278",
+                "0757992277"
+            ],
+            "last_modified_i": 1545928987,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL10873399M",
+            "cover_i": 2601254,
+            "publisher": [
+                "Alfred Publishing Company"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A",
+                "OL2834710A"
+            ],
+            "author_name": [
+                "John Williams",
+                "Victor Lopez"
+            ],
+            "subject": [
+                "Musical scores, lyrics & libretti",
+                "Scores & Soundtracks",
+                "Songbooks - Popular",
+                "Musical Instruments - Woodwinds",
+                "Music",
+                "Music/Songbooks"
+            ],
+            "id_goodreads": [
+                "2429047"
+            ],
+            "publisher_facet": [
+                "Alfred Publishing Company"
+            ],
+            "subject_facet": [
+                "Music",
+                "Music/Songbooks",
+                "Musical Instruments - Woodwinds",
+                "Musical scores, lyrics & libretti",
+                "Scores & Soundtracks",
+                "Songbooks - Popular"
+            ],
+            "_version_": 1759757173546549248,
+            "author_facet": [
+                "OL2628221A John Williams",
+                "OL2834710A Victor Lopez"
+            ],
+            "subject_key": [
+                "music",
+                "musical_instruments_-_woodwinds",
+                "musical_scores_lyrics__libretti",
+                "musicsongbooks",
+                "scores__soundtracks",
+                "songbooks_-_popular"
+            ]
+        },
+        {
+            "key": "/works/OL18145108W",
+            "type": "work",
+            "seed": [
+                "/books/OL10873400M",
+                "/works/OL18145108W",
+                "/subjects/musical_scores_lyrics_&_libretti",
+                "/subjects/music",
+                "/subjects/music/songbooks",
+                "/subjects/scores_&_soundtracks",
+                "/subjects/songbooks_-_popular",
+                "/subjects/musical_instruments_-_woodwinds",
+                "/authors/OL2628221A",
+                "/authors/OL2834710A"
+            ],
+            "title": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL10873400M"
+            ],
+            "publish_date": [
+                "April 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 16,
+            "isbn": [
+                "9780757992285",
+                "0757992285"
+            ],
+            "last_modified_i": 1670434469,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL10873400M",
+            "cover_i": 2601255,
+            "publisher": [
+                "Alfred Publishing Company"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A",
+                "OL2834710A"
+            ],
+            "author_name": [
+                "John Williams",
+                "Victor Lopez"
+            ],
+            "subject": [
+                "Musical scores, lyrics & libretti",
+                "Music",
+                "Music/Songbooks",
+                "Scores & Soundtracks",
+                "Songbooks - Popular",
+                "Musical Instruments - Woodwinds"
+            ],
+            "id_goodreads": [
+                "2230584"
+            ],
+            "publisher_facet": [
+                "Alfred Publishing Company"
+            ],
+            "subject_facet": [
+                "Music",
+                "Music/Songbooks",
+                "Musical Instruments - Woodwinds",
+                "Musical scores, lyrics & libretti",
+                "Scores & Soundtracks",
+                "Songbooks - Popular"
+            ],
+            "_version_": 1759757173656649728,
+            "author_facet": [
+                "OL2628221A John Williams",
+                "OL2834710A Victor Lopez"
+            ],
+            "subject_key": [
+                "music",
+                "musical_instruments_-_woodwinds",
+                "musical_scores_lyrics__libretti",
+                "musicsongbooks",
+                "scores__soundtracks",
+                "songbooks_-_popular"
+            ]
+        },
+        {
+            "key": "/works/OL21725897W",
+            "type": "work",
+            "seed": [
+                "/books/OL8005983M",
+                "/works/OL21725897W",
+                "/subjects/flute_music",
+                "/subjects/motion_picture_music",
+                "/authors/OL2628221A",
+                "/authors/OL2834710A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "title_sort": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8005983M"
+            ],
+            "publish_date": [
+                "April 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 16,
+            "isbn": [
+                "9780757992308",
+                "0757992307"
+            ],
+            "last_modified_i": 1598571485,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL8005983M",
+            "cover_i": 505154,
+            "first_sentence": [
+                "Mer - ry Christ - mas, Mer - ry Christ - mas, ring the Hog - warts bell,"
+            ],
+            "publisher": [
+                "Alfred Publishing Company"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A",
+                "OL2834710A"
+            ],
+            "author_name": [
+                "John Williams",
+                "Victor Lopez"
+            ],
+            "subject": [
+                "Flute music",
+                "Motion picture music"
+            ],
+            "id_goodreads": [
+                "3358"
+            ],
+            "id_librarything": [
+                "1270231"
+            ],
+            "publisher_facet": [
+                "Alfred Publishing Company"
+            ],
+            "subject_facet": [
+                "Flute music",
+                "Motion picture music"
+            ],
+            "_version_": 1759765099755601921,
+            "author_facet": [
+                "OL2628221A John Williams",
+                "OL2834710A Victor Lopez"
+            ],
+            "subject_key": [
+                "flute_music",
+                "motion_picture_music"
+            ]
+        },
+        {
+            "key": "/works/OL21725898W",
+            "type": "work",
+            "seed": [
+                "/books/OL8005982M",
+                "/works/OL21725898W",
+                "/subjects/clarinet_music",
+                "/authors/OL2628221A",
+                "/authors/OL2834710A"
+            ],
+            "title": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "title_suggest": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "title_sort": "Harry Potter and the Sorcerer's Stone - Selected Themes from the Motion Picture",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8005982M"
+            ],
+            "publish_date": [
+                "April 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 16,
+            "isbn": [
+                "0757992293",
+                "9780757992292"
+            ],
+            "last_modified_i": 1598571486,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL8005982M",
+            "cover_i": 505153,
+            "first_sentence": [
+                "Mer - ry Christ - mas, Mer - ry Christ - mas, ring the Hog - warts bell,"
+            ],
+            "publisher": [
+                "Alfred Publishing Company"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A",
+                "OL2834710A"
+            ],
+            "author_name": [
+                "John Williams",
+                "Victor Lopez"
+            ],
+            "subject": [
+                "Clarinet music"
+            ],
+            "id_goodreads": [
+                "2256409"
+            ],
+            "id_librarything": [
+                "3512798"
+            ],
+            "publisher_facet": [
+                "Alfred Publishing Company"
+            ],
+            "subject_facet": [
+                "Clarinet music"
+            ],
+            "_version_": 1759765099809079296,
+            "author_facet": [
+                "OL2628221A John Williams",
+                "OL2834710A Victor Lopez"
+            ],
+            "subject_key": [
+                "clarinet_music"
+            ]
+        },
+        {
+            "key": "/works/OL18146366W",
+            "type": "work",
+            "seed": [
+                "/books/OL7511626M",
+                "/works/OL18146366W",
+                "/subjects/coloring_books",
+                "/authors/OL2834649A",
+                "/authors/OL9611183A"
+            ],
+            "title": "The Characters of Harry Potter and the Sorcerer's Stone Stained Glass Art",
+            "title_suggest": "The Characters of Harry Potter and the Sorcerer's Stone Stained Glass Art",
+            "title_sort": "The Characters of Harry Potter and the Sorcerer's Stone Stained Glass Art",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7511626M"
+            ],
+            "publish_date": [
+                "May 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 32,
+            "oclc": [
+                "47689158"
+            ],
+            "isbn": [
+                "9780439286329",
+                "0439286328"
+            ],
+            "last_modified_i": 1671287500,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL7511626M",
+            "cover_i": 1228542,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2834649A",
+                "OL9611183A"
+            ],
+            "author_name": [
+                "Warner Bros",
+                "Warner Bros. Entertainment Staff"
+            ],
+            "author_alternative_name": [
+                "Warner Bros. Publication",
+                "Warner Bros.",
+                "WARNER BROS.",
+                "Warner Bros Entertainment",
+                "Warner Bros Publications",
+                "Inc. Warner Bros.",
+                "Bros Warner",
+                "Warner Bros. Publications"
+            ],
+            "subject": [
+                "Coloring books"
+            ],
+            "id_goodreads": [
+                "6382750"
+            ],
+            "id_librarything": [
+                "474809"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "subject_facet": [
+                "Coloring books"
+            ],
+            "_version_": 1759757208929697792,
+            "author_facet": [
+                "OL2834649A Warner Bros",
+                "OL9611183A Warner Bros. Entertainment Staff"
+            ],
+            "subject_key": [
+                "coloring_books"
+            ]
+        },
+        {
+            "key": "/works/OL18145111W",
+            "type": "work",
+            "seed": [
+                "/books/OL8005980M",
+                "/works/OL18145111W",
+                "/subjects/musical_scores_lyrics_&_libretti",
+                "/subjects/musical_instruments_-_woodwinds",
+                "/subjects/music/songbooks",
+                "/subjects/music",
+                "/subjects/musical_instruments_-_brass",
+                "/subjects/scores_&_soundtracks",
+                "/subjects/songbooks_-_popular",
+                "/authors/OL2628221A",
+                "/authors/OL2834710A"
+            ],
+            "title": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_suggest": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "title_sort": "Selected Themes from the Motion Picture Harry Potter and the Sorcerer's Stone",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8005980M"
+            ],
+            "publish_date": [
+                "April 2002"
+            ],
+            "publish_year": [
+                2002
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 16,
+            "isbn": [
+                "9780757992247",
+                "0757992242"
+            ],
+            "last_modified_i": 1679087480,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL8005980M",
+            "cover_i": 13576545,
+            "publisher": [
+                "Alfred Publishing Company",
+                "Alfred Music"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2628221A",
+                "OL2834710A"
+            ],
+            "author_name": [
+                "John Williams",
+                "Victor Lopez"
+            ],
+            "subject": [
+                "Musical scores, lyrics & libretti",
+                "Musical Instruments - Woodwinds",
+                "Music/Songbooks",
+                "Music",
+                "Musical Instruments - Brass",
+                "Scores & Soundtracks",
+                "Songbooks - Popular"
+            ],
+            "id_goodreads": [
+                "2429041"
+            ],
+            "id_librarything": [
+                "3512799"
+            ],
+            "publisher_facet": [
+                "Alfred Music",
+                "Alfred Publishing Company"
+            ],
+            "subject_facet": [
+                "Music",
+                "Music/Songbooks",
+                "Musical Instruments - Brass",
+                "Musical Instruments - Woodwinds",
+                "Musical scores, lyrics & libretti",
+                "Scores & Soundtracks",
+                "Songbooks - Popular"
+            ],
+            "_version_": 1760650839210328073,
+            "author_facet": [
+                "OL2628221A John Williams",
+                "OL2834710A Victor Lopez"
+            ],
+            "subject_key": [
+                "music",
+                "musical_instruments_-_brass",
+                "musical_instruments_-_woodwinds",
+                "musical_scores_lyrics__libretti",
+                "musicsongbooks",
+                "scores__soundtracks",
+                "songbooks_-_popular"
+            ]
+        },
+        {
+            "key": "/works/OL31237489W",
+            "type": "work",
+            "seed": [
+                "/books/OL11108532M",
+                "/works/OL31237489W",
+                "/authors/OL3547891A",
+                "/authors/OL3547892A"
+            ],
+            "title": "Harry Potter And The Sorcerer's Stone Teachers Guide (Story House Teachers Guide)",
+            "title_suggest": "Harry Potter And The Sorcerer's Stone Teachers Guide (Story House Teachers Guide)",
+            "title_sort": "Harry Potter And The Sorcerer's Stone Teachers Guide (Story House Teachers Guide)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL11108532M"
+            ],
+            "publish_date": [
+                "March 1, 2000"
+            ],
+            "publish_year": [
+                2000
+            ],
+            "first_publish_year": 2000,
+            "number_of_pages_median": 36,
+            "oclc": [
+                "45011222"
+            ],
+            "contributor": [
+                "Story House Corporation (Compiler, Editor)",
+                "D. Steve Rahmas (Editor)"
+            ],
+            "isbn": [
+                "9780871573865",
+                "0871573865"
+            ],
+            "last_modified_i": 1670153286,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Story House Corp"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3547891A",
+                "OL3547892A"
+            ],
+            "author_name": [
+                "Erika Byrne",
+                "Story House Corporation Staff"
+            ],
+            "id_goodreads": [
+                "1739144"
+            ],
+            "id_librarything": [
+                "3440153"
+            ],
+            "publisher_facet": [
+                "Story House Corp"
+            ],
+            "_version_": 1759783738362822660,
+            "author_facet": [
+                "OL3547891A Erika Byrne",
+                "OL3547892A Story House Corporation Staff"
+            ]
+        },
+        {
+            "key": "/works/OL18145106W",
+            "type": "work",
+            "seed": [
+                "/books/OL7511618M",
+                "/works/OL18145106W",
+                "/subjects/coloring_books",
+                "/authors/OL2703403A"
+            ],
+            "title": "The Mysteries of Harry Potter and the Sorcerer's Stone (Invisible Image Coloring Book)",
+            "title_suggest": "The Mysteries of Harry Potter and the Sorcerer's Stone (Invisible Image Coloring Book)",
+            "title_sort": "The Mysteries of Harry Potter and the Sorcerer's Stone (Invisible Image Coloring Book)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7511618M"
+            ],
+            "publish_date": [
+                "2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 48,
+            "oclc": [
+                "503569936"
+            ],
+            "isbn": [
+                "9780439286152",
+                "0439286158"
+            ],
+            "last_modified_i": 1677605536,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL7511618M",
+            "cover_i": 276939,
+            "publisher": [
+                "Scholastic"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2703403A"
+            ],
+            "author_name": [
+                "Scholastic Inc."
+            ],
+            "author_alternative_name": [
+                "Inc. Scholastic ",
+                "SCholastic Inc.",
+                "Inc Scholastic",
+                "Scholastic, Inc. (Firm)",
+                "Inc. Staff Scholastic",
+                "Scholastic Inc",
+                "Inc Scholastic Staff"
+            ],
+            "subject": [
+                "Coloring books"
+            ],
+            "id_amazon": [
+                ""
+            ],
+            "id_goodreads": [
+                "6516601"
+            ],
+            "id_librarything": [
+                "1372711"
+            ],
+            "publisher_facet": [
+                "Scholastic"
+            ],
+            "subject_facet": [
+                "Coloring books"
+            ],
+            "_version_": 1759886825878454272,
+            "author_facet": [
+                "OL2703403A Scholastic Inc."
+            ],
+            "subject_key": [
+                "coloring_books"
+            ]
+        },
+        {
+            "key": "/works/OL12429061W",
+            "type": "work",
+            "seed": [
+                "/books/OL18481291M",
+                "/works/OL12429061W",
+                "/subjects/children's_stories_english",
+                "/subjects/english_young_adult_fiction",
+                "/subjects/study_and_teaching",
+                "/subjects/study_and_teaching_(elementary)",
+                "/subjects/study_and_teaching_(middle_school)",
+                "/subjects/young_adult_fiction_english",
+                "/subjects/person:j._k._rowling",
+                "/authors/OL5482078A"
+            ],
+            "title": "LinguiSystems novel guide for Harry Potter and the sorcerer's stone by J.K. Rowling",
+            "title_suggest": "LinguiSystems novel guide for Harry Potter and the sorcerer's stone by J.K. Rowling",
+            "title_sort": "LinguiSystems novel guide for Harry Potter and the sorcerer's stone by J.K. Rowling",
+            "edition_count": 1,
+            "edition_key": [
+                "OL18481291M"
+            ],
+            "publish_date": [
+                "2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "number_of_pages_median": 32,
+            "publish_place": [
+                "East Moline, IL"
+            ],
+            "contributor": [
+                "LinguiSystems, Inc."
+            ],
+            "isbn": [
+                "0760603405",
+                "9780760603406"
+            ],
+            "last_modified_i": 1291407333,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "LinguiSystems"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL5482078A"
+            ],
+            "author_name": [
+                "Laura Sauser"
+            ],
+            "person": [
+                "J. K. Rowling"
+            ],
+            "subject": [
+                "Children's stories, English",
+                "English Young adult fiction",
+                "Study and teaching",
+                "Study and teaching (Elementary)",
+                "Study and teaching (Middle school)",
+                "Young adult fiction, English"
+            ],
+            "publisher_facet": [
+                "LinguiSystems"
+            ],
+            "person_key": [
+                "j._k._rowling"
+            ],
+            "person_facet": [
+                "J. K. Rowling"
+            ],
+            "subject_facet": [
+                "Children's stories, English",
+                "English Young adult fiction",
+                "Study and teaching",
+                "Study and teaching (Elementary)",
+                "Study and teaching (Middle school)",
+                "Young adult fiction, English"
+            ],
+            "_version_": 1759746037644263425,
+            "author_facet": [
+                "OL5482078A Laura Sauser"
+            ],
+            "subject_key": [
+                "children's_stories_english",
+                "english_young_adult_fiction",
+                "study_and_teaching",
+                "study_and_teaching_(elementary)",
+                "study_and_teaching_(middle_school)",
+                "young_adult_fiction_english"
+            ]
+        }
+    ],
+    "num_found": 42,
+    "q": "",
+    "offset": null
+}
