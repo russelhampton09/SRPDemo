@@ -44,3 +44,7 @@ I didn't have time to implement this.
 # Diagram #
 
 A small diagram of the code can be found labeled "diagram" in the same folder this ReadMe is located in.
+
+# Picture of UI #
+
+![alt text](https://github.com/russelhampton09/SRPDemo/blob/main/pic.png)
