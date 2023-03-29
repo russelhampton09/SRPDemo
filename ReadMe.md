@@ -4,7 +4,7 @@ https://learn.microsoft.com/en-us/aspnet/core/client-side/spa/react?view=aspnetc
 
 You can run the app with the dotnet CLI or by installing visual studio 2022 community edition. Installing visual studio community edition is probably easier. When running for the first time it will install node modules and take a moment.
 
-If you do choose the CLI, that link is the best description. Alternatively I don't mind getting on a call and show casing it or even hosting it. Just let me know.
+If you do choose the CLI, that link is the best description.
 
 
 
